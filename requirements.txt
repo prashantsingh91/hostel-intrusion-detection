@@ -1,0 +1,25 @@
+# Core face recognition dependencies
+onnx
+onnxruntime
+opencv-python
+numpy
+scikit-image
+faiss-cpu
+
+# Database and data handling
+sqlalchemy
+
+# Web framework for UI
+streamlit
+flask
+
+# Additional utilities
+pillow
+pandas
+
+# Development dependencies
+pytest
+black
+flake8 
+streamlit-webrtc>=0.45.0
+av>=10.0.0
