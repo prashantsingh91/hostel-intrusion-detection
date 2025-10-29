@@ -1,0 +1,96 @@
+# Exclude specified folders
+not_required/
+snapshots/
+data/
+recorded_videos/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.bin
+
+# Data files
+*.csv
+*.parquet
+*.json
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.dcm
+*.mp4
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.pid
