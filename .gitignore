@@ -94,3 +94,4 @@ logs/
 *.bak
 *.backup
 *.pid
+src/shared/face_recognition_flask_checkpoint.py
